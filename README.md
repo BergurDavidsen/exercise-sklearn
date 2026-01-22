@@ -1,3 +1,5 @@
+Exercise sklearn pipelines - wine quality
+
 In this exercise you will practice working with `sklearn` pipelines. You will go through some of the typical steps in the ML model lifecycle:
 
 * data loading
